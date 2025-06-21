@@ -13,13 +13,13 @@ import threading
 from datetime import datetime, timedelta
 import json
 
-TOKEN = '5528046453:AAH7qmgcUJY6rXwWxCpxxpRNFR9z8qRIULA'
+TOKEN = '7728200707:AAE1-CCHdo2VGciaDqiPFBvVVM9pgl0i3rI'
 bot = telebot.TeleBot(TOKEN)
 
 required_channel = None
 
 bot_scripts = {}
-admin_id = 1854384004
+admin_id = 6833733930
 uploaded_files_dir = "uploaded_files"
 user_uploaded_files_dir = "uploaded_files"
 user_upload_dates = {}  
