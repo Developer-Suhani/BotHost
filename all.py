@@ -16,7 +16,7 @@ import json
 TOKEN = '7728200707:AAE1-CCHdo2VGciaDqiPFBvVVM9pgl0i3rI'
 bot = telebot.TeleBot(TOKEN)
 
-required_channel = None
+required_channel = -1002062102925
 
 bot_scripts = {}
 admin_id = 6833733930
