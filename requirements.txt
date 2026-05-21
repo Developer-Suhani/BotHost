@@ -1,2 +1,6 @@
 telebot
 psutil
+pyrogram
+telethon
+flutter
+
